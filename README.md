@@ -1,6 +1,6 @@
 # WebviewSampleUsingAppBajarLib
 
-Someone asked to me to make a simple tutorial to load the webpage properly into the Android Webview. 
+Someone asked me to make a simple tutorial to load the webpage properly into the Android Webview. 
 He tried several times by own but didn't able to load all images properly. 
 So I decided to make a YouTube tutorial about creating an Android WebView project using AppBajar Library to make the things effective and easier.
 
@@ -16,5 +16,7 @@ So I decided to make a YouTube tutorial about creating an Android WebView projec
 
     }
 
-Please use the code if needed and check the video from YouTube. Don't forget to subscribe my channel to get more updates about Android programming.
+Please use the code if needed and check the video from YouTube https://youtu.be/9Xb6aR0pbl0
+
+Don't forget to subscribe my channel to get more updates about Android programming.
 
